@@ -1,0 +1,2 @@
+# bitcoin
+some technical analysis
